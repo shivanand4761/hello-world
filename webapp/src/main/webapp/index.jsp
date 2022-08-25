@@ -1,5 +1,5 @@
 <form action="action_page.php" method="post">
-    <h1>Global Logic Login page</h1>
+    <h2>Global Logic Login page</h2>
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
